@@ -20,8 +20,7 @@ printf statement prints the string "hello world!" as an output
  We print the result to the console using printf() 
  7.![Screenshot (217)](https://user-images.githubusercontent.com/125993593/230735924-c7e7aa5d-de0c-4904-995e-8d7ca1665ffc.png)
 Stop
- 
- ### Algorithm
+  ### Algorithm
  1. Start
 2. Input the number to be checked.
 3. Calculate the remainder when the number is divided by 2 using the modulus operator (%).
@@ -30,6 +29,22 @@ Stop
 6. Output "The number is even" and go to step 8.
 7. Output "The number is odd" and go to step 8.
 8. Stop.
+
+
+## 3.Taking an input fron the user
+int num declares an integer variable num, which will be used to store the user's input.
+ scanf() function to read an integer input from the user and store it in the num variable.
+ Include the standard input/output library.
+ ### Algorithm
+1.  Start
+2.   Define the main() function.
+3.  Declare an integer variable num.
+4.  Print a message to the console asking the user to enter an integer.
+5.  Use the scanf() function to read an integer input from the user and store it in the num variable.
+6.  Use the printf() function to print a message to the console indicating the integer entered by the user.
+7.  End the main() function and return an exit status of 0.
+8![Screenshot (218)](https://user-images.githubusercontent.com/125993593/230738164-755cf4e1-9c0d-42e5-96d9-3bbed7790d0d.png)
+.  Stop.
  
 
  
