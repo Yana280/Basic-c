@@ -1,5 +1,5 @@
 # Basic-c
-## Printing Hello World and using int char and float data types
+## 1.Printing Hello World and using int char and float data types
 printf statement prints the string "hello world!" as an output
  \n at the end is used to print on a new line. 
  The %d format specifier is used with the printf function, it tells printf to expect an integer argument, and to replace the %d with the integer.
@@ -14,7 +14,7 @@ printf statement prints the string "hello world!" as an output
 6.  Print the value of variable z followed by a newline character to the standard output using the printf function.
 
  
- ## Determining whether a given number is odd or even
+ ## 2.Determining whether a given number is odd or even
  We have used a modulus operator (%) to determine whether the number is even or odd.
  If the number is divisible by 2 (if (num % 2 == 0)) (i.e., the remainder when divided by 2 is 0), then it is even. Otherwise, it is odd.
  We print the result to the console using printf() 
