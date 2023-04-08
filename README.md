@@ -35,6 +35,7 @@ Stop
 int num declares an integer variable num, which will be used to store the user's input.
  scanf() function to read an integer input from the user and store it in the num variable.
  Include the standard input/output library.
+ ![Screenshot (218)](https://user-images.githubusercontent.com/125993593/230738164-755cf4e1-9c0d-42e5-96d9-3bbed7790d0d.png)
  ### Algorithm
 1.  Start
 2.   Define the main() function.
@@ -43,8 +44,7 @@ int num declares an integer variable num, which will be used to store the user's
 5.  Use the scanf() function to read an integer input from the user and store it in the num variable.
 6.  Use the printf() function to print a message to the console indicating the integer entered by the user.
 7.  End the main() function and return an exit status of 0.
-8![Screenshot (218)](https://user-images.githubusercontent.com/125993593/230738164-755cf4e1-9c0d-42e5-96d9-3bbed7790d0d.png)
-.  Stop.
- 
+8.  Stop.
+
 
  
