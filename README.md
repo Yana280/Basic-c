@@ -44,7 +44,7 @@ int num declares an integer variable num, which will be used to store the user's
 7.  End the main() function and return an exit status of 0.
 8.  Stop.
 ## 4.Operation on integers
-The program then performs the arithmetic operations of addition, subtraction, multiplication, integer division, and modulo, and assigns the results to the variables sum, diff, prod, quot, and rem, respectively. Finally, the program uses the printf() function to print out the results of each operation.
+This program performs the arithmetic operations of addition, subtraction, multiplication, integer division, and modulo, and assigns the results to the variables sum, diff, prod, quot, and rem, respectively. Then it uses the printf() function to print out the results of each operation.
 ![Screenshot (219)](https://user-images.githubusercontent.com/125993593/230738756-6b1c60ed-8390-49f9-a318-4a8d56c310ae.png)
 ### Algorithm
 1. Start the program.
