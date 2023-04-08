@@ -13,8 +13,7 @@ printf statement prints the string "hello world!" as an output
 5.  Print the value of variable y followed by a newline character to the standard output using the printf function.
 6.  Print the value of variable z followed by a newline character to the standard output using the printf function.
 
- 
- ## 2.Determining whether a given number is odd or even
+  ## 2.Determining whether a given number is odd or even
  We have used a modulus operator (%) to determine whether the number is even or odd.
  If the number is divisible by 2 (if (num % 2 == 0)) (i.e., the remainder when divided by 2 is 0), then it is even. Otherwise, it is odd.
  We print the result to the console using printf() 
@@ -30,7 +29,6 @@ Stop
 7. Output "The number is odd" and go to step 8.
 8. Stop.
 
-
 ## 3.Taking an input fron the user
 int num declares an integer variable num, which will be used to store the user's input.
  scanf() function to read an integer input from the user and store it in the num variable.
@@ -45,6 +43,28 @@ int num declares an integer variable num, which will be used to store the user's
 6.  Use the printf() function to print a message to the console indicating the integer entered by the user.
 7.  End the main() function and return an exit status of 0.
 8.  Stop.
+## 4.Operation on integers
+The program then performs the arithmetic operations of addition, subtraction, multiplication, integer division, and modulo, and assigns the results to the variables sum, diff, prod, quot, and rem, respectively. Finally, the program uses the printf() function to print out the results of each operation.
+![Screenshot (219)](https://user-images.githubusercontent.com/125993593/230738756-6b1c60ed-8390-49f9-a318-4a8d56c310ae.png)
+### Algorithm
+1. Start the program.
+2. Declare the variables a, b, sum, diff, prod, quot, and rem as integers.
+3. Prompt the user to enter the first integer.
+4. Read the first integer entered by the user and store it in the variable a.
+5. Prompt the user to enter the second integer.
+6. Read the second integer entered by the user and store it in the variable b.
+7. Calculate the sum of the two integers and store the result in the variable sum.
+8. Calculate the difference between the two integers and store the result in the variable diff.
+9. Calculate the product of the two integers and store the result in the variable prod.
+10. Calculate the integer division of the first integer by the second integer and store the result in the variable quot.
+11. Calculate the modulo operation of the first integer by the second integer and store the result in the variable rem.
+12. Display the result of the sum using printf() function.
+13. Display the result of the difference using printf() function.
+14. Display the result of the product using printf() function.
+15. Display the result of the integer division using printf() function.
+16. Display the result of the modulo operation using printf() function.
+17. End the program.
+
 
 
  
