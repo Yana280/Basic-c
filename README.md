@@ -1,5 +1,5 @@
 # Basic-c
-## 1.Printing Hello World and using int char and float data types
+## 1.Printing Hello World and using int char and float data types(Lab1.c)
 printf statement prints the string "hello world!" as an output
  \n at the end is used to print on a new line. 
  The %d format specifier is used with the printf function, it tells printf to expect an integer argument, and to replace the %d with the integer.
