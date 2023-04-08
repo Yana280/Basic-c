@@ -6,12 +6,12 @@ printf statement prints the string "hello world!" as an output
  Similiarly, %c format specifier is used to add a character and %f format specifier is used to add a floating point number(float).
  The main function returns the value 0, which is a convention to indicate that the program executed successfully.![Screenshot (216)](https://user-images.githubusercontent.com/125993593/230716229-263a61e9-45d2-49db-a3ce-1d26ee07d1f3.png)
 ### Algorithm
-1. Start
-2.Declare and initialize integer variable x to 1, character variable y to 'c', and floating-point variable z to 5.5.
-3.Print the string "hello world!" followed by a newline character to the standard output using the printf function.
-4.Print the value of variable x followed by a newline character to the standard output using the printf function.
-5.Print the value of variable y followed by a newline character to the standard output using the printf function.
-6.Print the value of variable z followed by a newline character to the standard output using the printf function.
+1.  Start
+2.  Declare and initialize integer variable x to 1, character variable y to 'c', and floating-point variable z to 5.5.
+3.  Print the string "hello world!" followed by a newline character to the standard output using the printf function.
+4.  Print the value of variable x followed by a newline character to the standard output using the printf function.
+5.  Print the value of variable y followed by a newline character to the standard output using the printf function.
+6.  Print the value of variable z followed by a newline character to the standard output using the printf function.
 
  
  ## Determining whether a given number is odd or even
