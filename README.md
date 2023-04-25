@@ -18,7 +18,6 @@ printf statement prints the string "hello world!" as an output
  If the number is divisible by 2 (if (num % 2 == 0)) (i.e., the remainder when divided by 2 is 0), then it is even. Otherwise, it is odd.
  We print the result to the console using printf() 
  7.![Screenshot (217)](https://user-images.githubusercontent.com/125993593/230735924-c7e7aa5d-de0c-4904-995e-8d7ca1665ffc.png)
-Stop
   ### Algorithm
  1. Start
 2. Input the number to be checked.
@@ -64,6 +63,27 @@ This program performs the arithmetic operations of addition, subtraction, multip
 15. Display the result of the integer division using printf() function.
 16. Display the result of the modulo operation using printf() function.
 17. End the program.
+## 5.Swapping two numbers
+This is a C program that reads in two decimal numbers from the user using scanf, swaps their values using a temporary variable, and then prints out the swapped values using printf.
+To swap the values of first and second, the program uses a temporary variable temp. 
+The value of first is assigned to temp using the assignment operator "=", which temporarily stores the value of first.
+The program then uses printf to print out the swapped values of first and second using the "%.2lf" format specifier, which displays the values with two decimal points.
+
+### Algorithm
+Start the program.
+Declare three double variables named "first", "second", and "temp".
+Print the message "Enter first number: " to the console.
+Read a double value from the console and assign it to the variable "first" using scanf.
+Print the message "Enter second number: " to the console.
+Read a double value from the console and assign it to the variable "second" using scanf.
+Assign the value of "first" to "temp".
+Assign the value of "second" to "first".
+Assign the value of "temp" (which now contains the initial value of "first") to "second".
+Print the message "After swapping, first number = " to the console.
+Print the value of "first" to the console with 2 decimal points using printf.
+Print the message "After swapping, second number = " to the console.
+Print the value of "second" to the console with 2 decimal points using printf.
+End the program.
 
 
 
