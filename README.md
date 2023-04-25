@@ -68,6 +68,7 @@ This is a C program that reads in two decimal numbers from the user using scanf,
 To swap the values of first and second, the program uses a temporary variable temp. 
 The value of first is assigned to temp using the assignment operator "=", which temporarily stores the value of first.
 The program then uses printf to print out the swapped values of first and second using the "%.2lf" format specifier, which displays the values with two decimal points.
+![Screenshot (289)](https://user-images.githubusercontent.com/125993593/234146193-d4ffc8bd-9a94-4707-9abe-6e3af4d0a6cc.png)
 
 ### Algorithm
 Start the program.
