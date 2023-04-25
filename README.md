@@ -71,20 +71,20 @@ The program then uses printf to print out the swapped values of first and second
 ![Screenshot (289)](https://user-images.githubusercontent.com/125993593/234146193-d4ffc8bd-9a94-4707-9abe-6e3af4d0a6cc.png)
 
 ### Algorithm
-Start the program.
-Declare three double variables named "first", "second", and "temp".
-Print the message "Enter first number: " to the console.
-Read a double value from the console and assign it to the variable "first" using scanf.
-Print the message "Enter second number: " to the console.
-Read a double value from the console and assign it to the variable "second" using scanf.
-Assign the value of "first" to "temp".
-Assign the value of "second" to "first".
-Assign the value of "temp" (which now contains the initial value of "first") to "second".
-Print the message "After swapping, first number = " to the console.
-Print the value of "first" to the console with 2 decimal points using printf.
-Print the message "After swapping, second number = " to the console.
-Print the value of "second" to the console with 2 decimal points using printf.
-End the program.
+1)Start the program.
+2)Declare three double variables named "first", "second", and "temp".
+3)Print the message "Enter first number: " to the console.
+4)Read a double value from the console and assign it to the variable "first" using scanf.
+5)Print the message "Enter second number: " to the console.
+6)Read a double value from the console and assign it to the variable "second" using scanf.
+7)Assign the value of "first" to "temp".
+8)Assign the value of "second" to "first".
+9)Assign the value of "temp" (which now contains the initial value of "first") to "second".
+10)Print the message "After swapping, first number = " to the console.
+11)Print the value of "first" to the console with 2 decimal points using printf.
+12)Print the message "After swapping, second number = " to the console.
+13)Print the value of "second" to the console with 2 decimal points using printf.
+14)End the program.
 
 
 
